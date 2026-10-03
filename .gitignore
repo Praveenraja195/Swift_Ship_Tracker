@@ -1,0 +1,17 @@
+# Salesforce CLI
+.sf/
+.sfdx/
+.localdevserver/
+deploy-options.json
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editors / OS
+.vscode/.browse.*
+.DS_Store
+Thumbs.db

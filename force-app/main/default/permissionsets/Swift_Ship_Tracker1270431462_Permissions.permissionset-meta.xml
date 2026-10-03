@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Allows custom permissions for Agentforce Agent : Swift_Ship_Tracker&apos;s agent user : swift_ship_tracker@00dg800000l82dh1295169511.ext.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Swift_Ship_Tracker1270431462 Permissions</label>
+    <license>Einstein Agent</license>
+</PermissionSet>
