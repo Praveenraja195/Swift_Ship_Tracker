@@ -1,6 +1,6 @@
-# 🚢 Swift Ship Tracker
+# 📦 Swift Ship Tracker
 
-A powerful ship tracking application to monitor and manage vessel movements in real time.
+A powerful parcel tracking application to monitor and manage shipment movements in real time.
 
 ---
 
@@ -20,10 +20,25 @@ For detailed project documentation, refer to the [SwiftShip Tracker Project Docu
 
 ## 🚀 Features
 
-- Real-time ship tracking
-- Vessel movement monitoring
+- Real-time parcel tracking
+- Shipment movement monitoring
 - Interactive dashboard
 
 ---
 
-> Built with ❤️ — Swift Ship Tracker
+## 👥 Team
+
+| Role | Name |
+|------|------|
+| 🏆 Team Leader | Praveenraja S |
+| 👨‍💻 Team Member | Aswin Sanjeev Kumar A |
+| 👨‍💻 Team Member | Sri Dharanivel A M |
+| 👨‍💻 Team Member | Sivabalan S |
+| 👨‍💻 Team Member | Yuvaraj C |
+
+🏫 **College:** Government College of Engineering, Erode
+🆔 **Team ID:** SWTID-2026-9775
+
+---
+
+> Built with ❤️ by Team Swift Ship Tracker
